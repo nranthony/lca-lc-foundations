@@ -208,3 +208,6 @@ __marimo__/
 
 # LangSmith Studio
 **/.langgraph_api/
+
+# MCPs
+node_modules/
